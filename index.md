@@ -1,7 +1,7 @@
 # About me
 ![Picture of me](IMG_5782.jpg)
 ### I am a CSE major at UCSD in my junior year
-### I have taken an interest in graphics programming and am taking **CSE 168** this SP25 after taking **CSE 167** in WI25, where I will be studying rendering via ray tracing methods.
+### I have taken an interest in graphics programming and am taking ***CSE 168*** this SP25 after taking ***CSE 167*** in WI25, where I will be studying rendering via ray tracing methods.
 ### This is inspiration came from watching a youtube channel called [Acerola](https://www.youtube.com/@Acerola_t)
 
 ### I've had a Summer internship working at Jove Sciences as a programming assistant where I helped work on software for maritime intellegence purposes.
